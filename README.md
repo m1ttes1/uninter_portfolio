@@ -30,7 +30,6 @@ Você pode visualizar o portfólio online através do [link do site](link para o
 
 Para qualquer dúvida ou colaboração, você pode entrar em contato através do formulário na página de contato do portfólio ou pelos seguintes links:
 
-- [GitHub](https://github.com/m1ttes1)
 - [LinkedIn](https://www.linkedin.com/in/vmittestainerdev/)
 
 ---
