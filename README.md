@@ -24,7 +24,7 @@ Bem-vindo ao meu portfólio pessoal! Este site demonstra meus projetos mais rele
 
 ## Como Acessar
 
-Você pode visualizar o portfólio online através do [https://m1ttes1.github.io/uninter_portfolio/](link para o portfólio). Para contribuir ou visualizar o código-fonte, acesse os links dos projetos individuais listados acima.
+Você pode visualizar o portfólio online através do [Versão Wen](https://m1ttes1.github.io/uninter_portfolio/). Para contribuir ou visualizar o código-fonte, acesse os links dos projetos individuais listados acima.
 
 ## Contato
 
