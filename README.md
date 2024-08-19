@@ -1,50 +1,38 @@
-# Portfólio Pessoal
+# Portfólio de Victor Mittestainer
 
-Bem-vindo ao meu portfólio pessoal! Este projeto é uma plataforma onde você pode explorar meus trabalhos, habilidades e experiências profissionais. 
+Bem-vindo ao meu portfólio pessoal! Este site demonstra meus projetos mais relevantes e minhas habilidades em desenvolvimento de software. Aqui você encontrará uma coleção de trabalhos em que estive envolvido, além de informações sobre minha formação e formas de entrar em contato comigo.
 
-## Estrutura do Projeto
+## Conteúdo
 
-O portfólio é dividido nas seguintes seções:
+- **Home**: Introdução e visão geral do portfólio.
+- **Formação Educacional**: Detalhes sobre minha formação acadêmica e cursos relevantes.
+- **Portfólio**: Exibição dos projetos desenvolvidos, incluindo descrições, tecnologias utilizadas e links para visualização.
+- **Contato**: Formulário para entrar em contato, incluindo campos para nome, email, idade, gênero, país e mensagem.
 
-- **Home**: Página inicial com uma visão geral dos meus projetos mais recentes e destaques.
-- **Portfólio**: Seção que apresenta uma seleção dos projetos mais importantes, com detalhes sobre cada um deles.
-- **Contato**: Formulário para contato com campos para nome, email, idade e mensagem. Inclui também opções de status (estudante, trabalhando, outros) e links para meu GitHub e LinkedIn.
+## Projetos em Destaque
 
-## Funcionalidades
-
-- **Design Responsivo**: O site é projetado para funcionar bem em diferentes dispositivos e tamanhos de tela.
-- **Estilização**: Utiliza CSS moderno e estilização personalizada para um visual atraente e funcional.
-- **Formulário de Contato**: Permite o envio de mensagens e inclui validação básica dos campos.
+1. **Fokusflow**: Aplicação web baseada na técnica Pomodoro, com modos de foco e descanso, além de controle de música. [Ver no GitHub](https://github.com/m1ttes1/fokusflow) | [Versão Web](https://m1ttes1.github.io/fokusflow/)
+2. **Alurabook**: E-commerce de livros com design moderno e responsivo. [Ver no GitHub](https://github.com/m1ttes1/alurabook) | [Versão Web](https://m1ttes1.github.io/alurabook/)
+3. **YTB-Video-Downloader**: Ferramenta para baixar vídeos e áudios do YouTube. [Ver no GitHub](https://github.com/m1ttes1/YTB-Video-downloader)
+4. **AluraPlus**: Página web responsiva para um serviço fictício de assinatura. [Ver no GitHub](https://github.com/m1ttes1/AluraPlus) | [Versão Web](https://m1ttes1.github.io/aluraplus/)
 
 ## Tecnologias Utilizadas
 
-- **HTML**: Estrutura do site.
-- **CSS**: Estilização e layout.
-- **JavaScript**: (Opcional) Para funcionalidades adicionais, se necessário.
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python, C#
+- **Outras Tecnologias**: Tkinter, Responsividade Web
 
-## Como Executar
+## Como Acessar
 
-Para visualizar o portfólio localmente, siga os passos abaixo:
-
-1. Clone este repositório:
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd seu-repositorio
-    ```
-
-3. Abra o arquivo `index.html` em um navegador da web para visualizar o portfólio.
-
-## Contribuições
-
-Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request. Qualquer feedback ou sugestão é bem-vindo!
+Você pode visualizar o portfólio online através do [link do site](link para o portfólio). Para contribuir ou visualizar o código-fonte, acesse os links dos projetos individuais listados acima.
 
 ## Contato
 
-- **GitHub**: [m1ttes1](https://github.com/m1ttes1)
-- **LinkedIn**: [vmittestainerdev](https://www.linkedin.com/in/vmittestainerdev/)
+Para qualquer dúvida ou colaboração, você pode entrar em contato através do formulário na página de contato do portfólio ou pelos seguintes links:
 
-© 2024 Meu Portfólio. Todos os direitos reservados.
+- [GitHub](https://github.com/m1ttes1)
+- [LinkedIn](https://www.linkedin.com/in/vmittestainerdev/)
+
+---
+
+© 2024 Victor Mittestainer. Todos os direitos reservados.
